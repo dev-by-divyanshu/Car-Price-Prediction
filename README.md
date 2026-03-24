@@ -66,7 +66,6 @@ Car-Price-Prediction/
 ├── train.py               # Model training script
 ├── car_price_model.pkl    # Trained ML model
 ├── app.py                 # Streamlit web app
-└── README.md              # Project documentation
 ```
 
 ---
@@ -145,12 +144,12 @@ http://localhost:8501
 
 Through this project, the following concepts were applied:
 
-✔ Data preprocessing
-✔ Feature encoding
-✔ Model training & evaluation
-✔ Regression techniques
-✔ Model deployment with UI
-✔ End-to-end ML workflow
+✔ Data preprocessing  
+✔ Feature encoding  
+✔ Model training & evaluation  
+✔ Regression techniques  
+✔ Model deployment with UI  
+✔ End-to-end ML workflow  
 
 ---
 
