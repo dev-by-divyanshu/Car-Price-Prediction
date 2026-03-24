@@ -1,10 +1,5 @@
 # 🚗 AI-Driven Used Car Price Prediction System
 
-<p align="center">
-  <b>Predict the fair resale value of a car using Machine Learning</b><br>
-  <i>BYOP Project — Fundamentals of AI & ML</i>
-</p>
-
 ---
 
 ## 🌟 Overview
@@ -18,12 +13,12 @@ This project uses **Machine Learning** to estimate the selling price of a car ba
 
 ## ✨ Key Features
 
-✅ Predict resale price of used cars
-✅ Real-time prediction using trained ML model
-✅ User-friendly web interface (Streamlit)
-✅ Handles multiple car attributes
-✅ Dataset-driven estimation
-✅ Practical AI application for beginners
+✅ Predict resale price of used cars  
+✅ Real-time prediction using trained ML model  
+✅ User-friendly web interface (Streamlit)  
+✅ Handles multiple car attributes  
+✅ Dataset-driven estimation  
+✅ Practical AI application for beginners  
 
 ---
 
@@ -161,11 +156,11 @@ Through this project, the following concepts were applied:
 
 ## 👨‍🎓 Author
 
-**Name:** Divyanshu Kumar
-**Registration no.:** 25BCE10233
-**Program:** B.Tech CSE
-**Course:** Fundamentals of AI & ML
-**University:** VIT Bhopal University
+**Name:** Divyanshu Kumar  
+**Registration no.:** 25BCE10233  
+**Program:** B.Tech CSE  
+**Course:** Fundamentals of AI & ML  
+**University:** VIT Bhopal University  
 
 ---
 
