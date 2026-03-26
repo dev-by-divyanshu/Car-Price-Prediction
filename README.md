@@ -43,7 +43,7 @@ The prediction is based on key car attributes:
 * Mileage ⛽
 * Maximum Power 🔥
 * Number of Seats 👨‍👩‍👧‍👦
-* Fuel Type (Petrol/Diesel/LPG)
+* Fuel Type (Petrol/Diesel/CNG/E.V)
 * Transmission Type
 * Seller Type
 * Ownership History
