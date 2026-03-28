@@ -43,7 +43,7 @@ The prediction is based on key car attributes:
 * Mileage ⛽
 * Maximum Power 🔥
 * Number of Seats 👨‍👩‍👧‍👦
-* Fuel Type (Petrol/Diesel/CNG/E.V)
+* Fuel Type (Petrol/Diesel)
 * Transmission Type
 * Seller Type
 * Ownership History
@@ -53,7 +53,7 @@ The prediction is based on key car attributes:
 
 ## 💰 Output
 
-👉 Estimated selling price of the car (in lakhs ₹)
+👉 Estimated selling price of the car (in ₹)
 
 ---
 
